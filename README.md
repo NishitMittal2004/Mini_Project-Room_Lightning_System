@@ -1,1 +1,1 @@
-# Mini_Project-Room_Lightning_System
+# Mini Project - Room Lightning System
